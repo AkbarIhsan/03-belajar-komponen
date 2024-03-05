@@ -14,3 +14,21 @@
     untuk memperbaiki error tersebut yaitu dengan cara menambahkan hostname "i.imgur.com" ke dalam konfigurasi images di file next.config.js 
 
 ### Jawaban Soal 2
+![Screenshot](assets-report/2.png)
+untuk hasil tampilannya sama 
+
+### Jawaban Soal 3
+![Screenshot](assets-report/3.png)
+error tersebut bisa terjadi karena seperti yang sudah dijelaskan tadi bahwa class merupakan nama pesanan, di React kita menulisnya sebagai className
+
+### Jawaban Soal 4
+![Screenshot](assets-report/4.png)
+
+### Jawaban Soal 5
+![Screenshot](assets-report/5.1.png)
+![Screenshot](assets-report/4.png)
+ hasilnya tetap sama
+
+### Jawaban Soal 6
+![Screenshot](assets-report/6.1.png)
+![Screenshot](assets-report/6.2.png)
