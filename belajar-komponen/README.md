@@ -32,3 +32,12 @@ error tersebut bisa terjadi karena seperti yang sudah dijelaskan tadi bahwa clas
 ### Jawaban Soal 6
 ![Screenshot](assets-report/6.1.png)
 ![Screenshot](assets-report/6.2.png)
+
+### Jawaban Soal 7
+![Screenshot](assets-report/7.png)
+
+### Jawaban Soal 8
+![Screenshot](assets-report/8.png)
+
+### Jawaban Soal 9
+![Screenshot](assets-report/9.png)
